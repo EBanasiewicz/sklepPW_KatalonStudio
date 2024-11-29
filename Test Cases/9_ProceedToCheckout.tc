@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding a product to the cart, then going to the cart and to the checkout screen</description>
+   <name>9_ProceedToCheckout</name>
+   <tag>@checkout</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>07f76e86-556b-4b18-a834-575cd1926a1d</testCaseGuid>
+</TestCaseEntity>

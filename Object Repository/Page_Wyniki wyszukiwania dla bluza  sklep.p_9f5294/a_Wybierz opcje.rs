@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Wybierz opcje</name>
+   <tag></tag>
+   <elementGuidId>ad4db355-9bde-4b8c-84df-7d9c85fb6d29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/ul/li/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.product_type_variable.add_to_cart_button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8797ab88-362c-471c-a410-cb6bf9d902e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.sklep.pw.edu.pl/produkty/bluza-z-kapturem</value>
+      <webElementGuid>f4aec082-4cdb-47be-8bfd-3d0e84b10d86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-quantity</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>7c144029-b28d-45ef-9fd4-8c8d55b962c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button product_type_variable add_to_cart_button</value>
+      <webElementGuid>f397de01-19a0-4cdc-b9ae-74f7d6f3ee10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-product_id</name>
+      <type>Main</type>
+      <value>10876</value>
+      <webElementGuid>e2be1c87-9e42-4b38-99df-e0eebe4344f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Wybierz opcje dla „Bluza z kapturem”</value>
+      <webElementGuid>0091ce4f-efea-433c-85c8-34d1e7bce092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>This product has multiple variants. The options may be chosen on the product page</value>
+      <webElementGuid>a84f67be-378d-4049-9a6f-27c2bd1d98eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>5de9f78e-43e0-49e3-82b3-fd379a41c2ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wybierz opcje</value>
+      <webElementGuid>49a3e015-0bfe-423d-8bd0-4c821a0d2f25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/ul[@class=&quot;products columns-3&quot;]/li[@class=&quot;product type-product post-10876 status-publish first instock product_cat-bluzy product_cat-odziez-gadzety product_cat-odziez has-post-thumbnail taxable shipping-taxable purchasable product-type-variable&quot;]/a[@class=&quot;button product_type_variable add_to_cart_button&quot;]</value>
+      <webElementGuid>960cddee-f317-4066-b6af-76bcb098b53f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/ul/li/a[2]</value>
+      <webElementGuid>3605b105-2094-47f9-b8da-b937db6fad11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Wybierz opcje')]</value>
+      <webElementGuid>7b839b27-f5ea-4e42-b97a-96509ab42ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='z VAT'])[1]/following::a[1]</value>
+      <webElementGuid>8701dc11-1510-4489-88a9-6bc6476e57a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='zł'])[2]/following::a[1]</value>
+      <webElementGuid>2509ff4a-5440-4390-864b-987df10cae52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bluza rozpinana'])[1]/preceding::a[1]</value>
+      <webElementGuid>c234a93f-cea3-4aaa-a2e3-4bfb691d88b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='zł'])[3]/preceding::a[1]</value>
+      <webElementGuid>5fa39166-ba1b-4f6a-baf0-431c25edbef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Wybierz opcje']/parent::*</value>
+      <webElementGuid>3f91b9e2-43d9-49e6-a79a-e0f8a469a26b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.sklep.pw.edu.pl/produkty/bluza-z-kapturem')])[2]</value>
+      <webElementGuid>55cc765d-d457-4e2f-a805-d643c1d911cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a[2]</value>
+      <webElementGuid>df9f396a-bc75-48d7-b7d0-e6bc5b1bc280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.sklep.pw.edu.pl/produkty/bluza-z-kapturem' and (text() = 'Wybierz opcje' or . = 'Wybierz opcje')]</value>
+      <webElementGuid>895583db-89b7-4080-92e6-5560ad7a1562</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

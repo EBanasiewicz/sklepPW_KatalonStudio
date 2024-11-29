@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Searching for a product present in the store</description>
+   <name>1_SearchSuccess</name>
+   <tag>@search</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e465b33d-5323-4e48-a119-2d8a0ca189ff</testCaseGuid>
+</TestCaseEntity>

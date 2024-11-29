@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding a product to the cart that is available and does not require choossing any additional options</description>
+   <name>3_AddToCartSuccess</name>
+   <tag>@cart</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>263c118c-6fe7-4f6b-bcde-12f8b9e124e5</testCaseGuid>
+</TestCaseEntity>

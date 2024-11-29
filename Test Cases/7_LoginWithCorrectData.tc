@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logging in using the correct data of a previously registered user</description>
+   <name>7_LoginWithCorrectData</name>
+   <tag>@login @account</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>765c6fce-8ac7-4701-b431-08589e867918</testCaseGuid>
+</TestCaseEntity>

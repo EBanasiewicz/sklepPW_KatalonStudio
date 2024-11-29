@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search with a word that does not match any product</description>
+   <name>2_SearchNoProductsFound</name>
+   <tag>@search</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e475e4e5-7d4e-4043-a5a4-a12dca9ddd5d</testCaseGuid>
+</TestCaseEntity>

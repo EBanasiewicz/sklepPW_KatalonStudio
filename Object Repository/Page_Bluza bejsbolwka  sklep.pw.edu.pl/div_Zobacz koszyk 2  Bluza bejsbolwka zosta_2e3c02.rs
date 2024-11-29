@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Zobacz koszyk 2  Bluza bejsbolwka zosta_2e3c02</name>
+   <tag></tag>
+   <elementGuidId>dc7bdc89-fcc9-4926-862b-bb456594d6d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.woocommerce-message</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ac7d5fa1-dc92-47c2-b465-1761e7c4a36e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-message</value>
+      <webElementGuid>75cb1a4c-af91-41ab-8d8b-a75bb6284a95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>6a331f0b-0d14-43cc-95d9-18e8714e0b04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		Zobacz koszyk 2 × „Bluza bejsbolówka” zostało dodanych do koszyka.	</value>
+      <webElementGuid>e43b7c5a-cae3-4f23-bd97-67aeac1a8206</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;col-full&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;woocommerce-message&quot;]</value>
+      <webElementGuid>fda16a93-5eba-4420-9407-427d95a54b3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div</value>
+      <webElementGuid>f2460e84-1c56-4986-bf9f-1c3e1523385a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[4]/following::div[4]</value>
+      <webElementGuid>a8b63bd1-f034-4abc-9c56-ba3ea58ceafb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wyprzedaż'])[1]/following::div[4]</value>
+      <webElementGuid>84a65134-1297-46b5-b2d6-0ce9cc39e1d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bluza bejsbolówka'])[1]/preceding::div[12]</value>
+      <webElementGuid>331384c8-9ffd-4eae-9fcd-1761b31ec3d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2 × „Bluza bejsbolówka” zostało dodanych do koszyka.']/parent::*</value>
+      <webElementGuid>2d6bf251-f7ab-427c-80f7-e0f1ab0bfbc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+      <webElementGuid>464792cb-09c1-4b06-9451-8538c2ff2dd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+		Zobacz koszyk 2 × „Bluza bejsbolówka” zostało dodanych do koszyka.	' or . = '
+		Zobacz koszyk 2 × „Bluza bejsbolówka” zostało dodanych do koszyka.	')]</value>
+      <webElementGuid>12ddcff6-a823-4da9-bc1d-246a77cc1d79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

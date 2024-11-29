@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>An attempt to add a product to the cart without selecting from the list of options</description>
+   <name>5_AddToCartProductWithOptionsFail</name>
+   <tag>@cart</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>153d3c8d-9e9c-41cd-bf4c-fe548876e249</testCaseGuid>
+</TestCaseEntity>

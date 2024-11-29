@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nie znaleziono produktw, ktrych szukasz</name>
+   <tag></tag>
+   <elementGuidId>4483dbdc-de80-4c8d-b7f4-b8733cdc02db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.woocommerce-info</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b1a01613-15ad-4724-999d-e4c572c9f5c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-info</value>
+      <webElementGuid>9bd60a8e-05b7-4fbd-a1f6-39cf31d0ddc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		Nie znaleziono produktów, których szukasz.	</value>
+      <webElementGuid>cbdcb310-ccaf-44d6-bc0c-0b2104c6e2e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;woocommerce-no-products-found&quot;]/div[@class=&quot;woocommerce-info&quot;]</value>
+      <webElementGuid>f21a7337-c9de-4d2d-9322-cd92bf192e3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div[3]/div</value>
+      <webElementGuid>1fe6bad3-fb9f-429f-b05d-0593e1db481f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wyniki wyszukiwania: „test12345”'])[1]/following::div[2]</value>
+      <webElementGuid>aff5d62c-7158-419f-8906-42509c49ec2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::div[8]</value>
+      <webElementGuid>e79da304-30c9-44b7-92ed-ff5f9700962b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wytyczne dla autorów'])[1]/preceding::div[1]</value>
+      <webElementGuid>e0af8ae1-f701-42f0-8089-eca6295d853b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategorie produktów'])[1]/preceding::div[4]</value>
+      <webElementGuid>460f0355-2f8e-422d-9174-c4b395cf1f36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nie znaleziono produktów, których szukasz.']/parent::*</value>
+      <webElementGuid>5e94e2c7-32d4-4228-927c-77c67e1dc74c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[3]/div</value>
+      <webElementGuid>6de2a088-55ab-4583-a573-86620b1de357</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+		Nie znaleziono produktów, których szukasz.	' or . = '
+		Nie znaleziono produktów, których szukasz.	')]</value>
+      <webElementGuid>0b5c1960-a22c-48ec-8a2e-a8ba6fbf2f56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

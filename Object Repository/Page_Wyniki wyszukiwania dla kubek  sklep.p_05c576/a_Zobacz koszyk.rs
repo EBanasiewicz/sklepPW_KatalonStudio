@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Zobacz koszyk</name>
+   <tag></tag>
+   <elementGuidId>9a0dc9da-b461-4c23-8e0a-b4ee95ce0712</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.added_to_cart.wc-forward</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/ul/li/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>124c2829-e722-4963-a506-b1421e722771</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.sklep.pw.edu.pl/koszyk</value>
+      <webElementGuid>a1fe4426-f9d2-4417-a2ec-6507f55747e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>added_to_cart wc-forward</value>
+      <webElementGuid>4548e28f-6107-4d89-81e4-cdc8cd4b080a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Zobacz koszyk</value>
+      <webElementGuid>795eca1e-36b3-43b2-a12a-7f09068e6e64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zobacz koszyk</value>
+      <webElementGuid>8e90723b-2090-4bc9-9914-44d8cef3289d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/ul[@class=&quot;products columns-3&quot;]/li[@class=&quot;product type-product post-10362 status-publish first instock product_cat-kubki product_cat-odziez-gadzety has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple&quot;]/a[@class=&quot;added_to_cart wc-forward&quot;]</value>
+      <webElementGuid>231a2da2-a64b-4b8e-b0d3-2b49b81d4654</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/ul/li/a[3]</value>
+      <webElementGuid>c7628a60-d0a9-4e77-b966-18664a56a789</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Zobacz koszyk')])[2]</value>
+      <webElementGuid>2d134053-4522-447a-8d13-2a53d0004c3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dodaj do koszyka'])[1]/following::a[1]</value>
+      <webElementGuid>7c3e2688-73fe-4d5d-adfa-d1e9c848219a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='z VAT'])[1]/following::a[2]</value>
+      <webElementGuid>2f68c3a6-4cf4-4102-a12b-bf7a1e81d589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kubek Grand'])[1]/preceding::a[1]</value>
+      <webElementGuid>3de97009-e73b-48f5-bad3-bbcd15e463d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='zł'])[5]/preceding::a[1]</value>
+      <webElementGuid>cfa05110-72f2-416a-85b3-ec0f33d19a40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.sklep.pw.edu.pl/koszyk')])[4]</value>
+      <webElementGuid>4652778f-ad82-423e-9329-4cb7eaedddd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>38f25776-c08c-48fc-8cbb-1c853f39250d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.sklep.pw.edu.pl/koszyk' and @title = 'Zobacz koszyk' and (text() = 'Zobacz koszyk' or . = 'Zobacz koszyk')]</value>
+      <webElementGuid>903ee312-b3f0-427a-a1be-2bcf52f302c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
